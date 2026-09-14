@@ -1,5 +1,15 @@
 --DDL (Data Definition Language)
 
+-- =========================================================
+-- 1. Criação do banco 
+-- =========================================================
+
+CREATE DATABESE produtos_loja;
+
+-- =========================================================
+-- 2. criação das tabelas 
+-- =========================================================
+
 CREATE TABLE Cliente (
     Codigo INT PRIMARY KEY,
     Nome VARCHAR(100) NOT NULL,
