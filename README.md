@@ -1,6 +1,6 @@
 # 🛒 Banco de Dados - Gerenciamento de Loja e Pedidos (SQL)
 
-Este repositório contém o script SQL (banco_loja.sql) para criação, povoamento, consulta e manipulação de um banco de dados relacional voltado para o gerenciamento de clientes, produtos, pedidos e itens de pedidos.
+Este repositório contém o script SQL (banco.sql) para criação, povoamento, consulta e manipulação de um banco de dados relacional voltado para o gerenciamento de clientes, produtos, pedidos e itens de pedidos.
 
 # 📐 Modelagem do Banco de Dados
 
